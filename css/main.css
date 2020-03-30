@@ -29,3 +29,7 @@ html {
   }
 
 }
+
+.table-wrapper table {
+  min-width: 45em;
+}
