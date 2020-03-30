@@ -6,8 +6,8 @@ html {
   background-color: #ddd;
 }
 
-.push-logo {
-  max-width: 200px;
+.panel {
+  background-color: #efefef;
 }
 
 .card {
@@ -18,8 +18,8 @@ html {
   background-color: #ddd;
 }
 
-.panel {
-  background-color: #efefef;
+.push-logo {
+  max-width: 200px;
 }
 
 @media only screen and (min-width: 76em) {
